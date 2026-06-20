@@ -1,4 +1,6 @@
-# CS-499
+# CS-499 Computer Science Capstone
 
-Code Review: 
-https://youtu.be/XIoURJRoHtc
+Code Review: https://www.youtube.com/watch?v=XIoURJRoHtc
+
+
+

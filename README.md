@@ -1,5 +1,6 @@
 <a id="top"></a>
-h1 align="center">Computer Science Capstone</h1>
+
+# h1 align="center">Computer Science Capstone</h1>
 
 <p align="center">
   <b>Thy Tran</b><br>

@@ -6,7 +6,7 @@
 # Professional Self-Assessment
 Throughout the Computer Science program, I have developed a strong foundation not only in software 
 
-# Code Review: <a href="([https://www.youtube.com/watch?v=XIoURJRoHtc](https://youtu.be/XIoURJRoHtc?si=oxCY7R03bA60edwr))" target="_blank">
+# Code Review: <a href="https://www.youtube.com/watch?v=XIoURJRoHtc" target="_blank">
   <button>Watch Code Review Video</button>
 
 

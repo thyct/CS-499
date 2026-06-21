@@ -5,8 +5,11 @@
 
 # Professional Self-Assessment
 
-# Code Review: <a href="https://www.youtube.com/watch?v=XIoURJRoHtc" target="_blank">
-  <button>Watch Code Review Video</button>
+# Code Review
+<a href="https://www.youtube.com/watch?v=XIoURJRoHtc" target="_blank"
+style="display:inline-block;padding:10px 15px;background:#ff0000;color:white;text-decoration:none;border-radius:6px;font-weight:bold;">
+▶ Watch Code Review Video
+</a> 
   
 # Enhancement One: Software Design and Engineering 
 <img width="380" height="61" alt="Screenshot 2026-06-20 at 7 43 52 PM" src="https://github.com/user-attachments/assets/5326f7cd-8ea8-49c2-bad0-51155ccfa30f" />
@@ -32,8 +35,9 @@ The enhancement met the planned course outcomes from Module One. Specifically, O
 
 # Enhancement Two: Algorithms and Data Structure 
 
-<img width="444" height="868" alt="Screenshot 2026-06-20 at 7 55 19 PM" src="https://github.com/user-attachments/assets/54ad216e-62f8-40cb-8314-765efc584ccc" />
 <img width="393" height="608" alt="Screenshot 2026-06-20 at 7 54 12 PM" src="https://github.com/user-attachments/assets/64efa612-b6b8-45a7-b71e-5621116432a1" />
+<img width="444" height="868" alt="Screenshot 2026-06-20 at 7 55 19 PM" src="https://github.com/user-attachments/assets/54ad216e-62f8-40cb-8314-765efc584ccc" />
+
 ### Artifact
   The artifact I selected is a C++ program developed in CS 300: Data Structures and Algorithms titled *Course Planner*. The program was created to assist students and advisors by loading course information from a CSV file, storing course data using a hash table implemented with an unordered map, and allowing users to search for courses and view prerequisite information. The original version created in CS 300 primarily used vectors to store prerequisites and relied on basic lookup functionality within a hash table structure to retrieve course information.
   

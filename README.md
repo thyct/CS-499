@@ -25,7 +25,7 @@ style="display:inline-block;padding:10px 15px;background:#ff0000;color:white;tex
 
 ### Artifact
 
-The artifact I selected is a C++ program developed last term in CS-405: Secure Coding titled Buffer Overflow Example. The program was originally created to demonstrate how unsafe memory handling using fixed-size character arrays can lead to buffer overflow vulnerabilities. It was developed during CS -05 as a learning exercise focused on identifying and understanding security weaknesses in low-level input handling. The original version used a fixed-size character array and std::cin.getline() to limit the input size while printing the constant account number that cannot be modified. 
+The artifact I selected is a C++ program developed last term in CS 405: Secure Coding titled *Buffer Overflow Example*. The program was originally created to demonstrate how unsafe memory handling using fixed-size character arrays can lead to buffer overflow vulnerabilities. It was developed during CS 405 as a learning exercise focused on identifying and understanding security weaknesses in low-level input handling. The original version used a fixed-size character array and std::cin.getline() to limit the input size while printing the constant account number that cannot be modified. 
 
 ### Inclusion
 
@@ -67,7 +67,7 @@ Through enhancing this artifact, I gained a deeper understanding of how differen
 
 ### Artifact
 
-The artifact that I have selected is a database-driven interactive dashboard that I developed in CS 340: Client/Server Development. The Grazioso Salvare application was designed to assist users in analyzing animal shelter data using MongoDB. The system uses a custom CRUD Python module to manage database operations and supports dynamic filtering, data visualization, and geospatial mapping. The original version of this database artifact relied primarily on basic MongoDB queries and a simple Dash interface for displaying tabular data. 
+The artifact that I have selected is a database-driven interactive dashboard that I developed in CS 340: Client/Server Development. The *Grazioso Salvare* application was designed to assist users in analyzing animal shelter data using MongoDB. The system uses a custom CRUD Python module to manage database operations and supports dynamic filtering, data visualization, and geospatial mapping. The original version of this database artifact relied primarily on basic MongoDB queries and a simple Dash interface for displaying tabular data. 
   
 ### Inclusion
 

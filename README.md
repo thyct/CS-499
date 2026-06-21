@@ -3,16 +3,20 @@
 
 **Welcome to my Computer Science Capstone ePortfolio.**
 
-Code Review: https://www.youtube.com/watch?v=XIoURJRoHtc
+# Professional Self-Assessment
+Throughout the Computer Science program, I have developed a strong foundation not only in software 
+
+# Code Review: <a href="(https://www.youtube.com/watch?v=XIoURJRoHtc)" target="_blank">
+  <button>Watch Code Review Video</button>
+</a>
 
 
-Enhancement Three: Databases
+## Enhancement Three: Databases
 
 <img width="1708" height="854" alt="Screenshot 2026-06-20 at 7 05 13 PM" src="https://github.com/user-attachments/assets/b12edd15-6a2e-45cd-a319-8c23361a9648" />
 
 <img width="1710" height="591" alt="Screenshot 2026-06-20 at 7 05 39 PM" src="https://github.com/user-attachments/assets/668f66ec-77bb-44d6-97be-dc78599af18e" />
 
-/n
 ### Artifact
 
   The artifact that I have selected is a database-driven interactive dashboard that I developed in CS 340: Client/Server Development. The Grazioso Salvare application was designed to assist users in analyzing animal shelter data using MongoDB. The system uses a custom CRUD Python module to manage database operations and supports dynamic filtering, data visualization, and geospatial mapping. The original version of this database artifact relied primarily on basic MongoDB queries and a simple Dash interface for displaying tabular data. 

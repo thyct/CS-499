@@ -8,7 +8,7 @@
 </p>
 
 ---
-  <summary><b> Table of Contents  (Click to Expand)</b></summary>
+  <summary><b> Table of Contents </b></summary>
 
 - [Professional Self-Assessment](#professional-self-assessment)
 - [Code Review](#code-review)

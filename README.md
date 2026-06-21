@@ -8,7 +8,6 @@
 </p>
 
 ---
-<details>
   <summary><b> Table of Contents  (Click to Expand)</b></summary>
 
 - [Professional Self-Assessment](#professional-self-assessment)
@@ -17,7 +16,6 @@
 - [Enhancement Two: Algorithms and Data Structure](#enhancement-two-algorithms-and-data-structure)
 - [Enhancement Three: Databases](#enhancement-three-databases)
 
-</details>
 
 # Professional Self-Assessment
 Throughout the Computer Science program, I developed a strong foundation in software development, data structures and algorithms, database systems, and secure programming practices. The CS 499 capstone provided an opportunity to integrate these skills into a cohesive ePortfolio that demonstrates both technical growth and professional readiness. Over time, my focus has shifted from simply writing functional code to designing maintainable, efficient, and secure software systems aligned with real-world development practices.

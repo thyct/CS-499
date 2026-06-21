@@ -43,6 +43,9 @@ style="display:inline-block;padding:10px 15px;background:#ff0000;color:white;tex
 <img width="343" height="61" alt="Screenshot 2026-06-20 at 7 42 44 PM" src="https://github.com/user-attachments/assets/88daadd5-df00-47e5-86c8-986ff2e6bb0b" />
 <img width="495" height="88" alt="Screenshot 2026-06-20 at 7 42 20 PM" src="https://github.com/user-attachments/assets/8ff5312d-ab0c-4a24-9954-c6ae7b429e71" />
 
+[Original File](BufferOverflow.cpp)
+[Enhanced File](EnhancedBufferOverflow.cpp)
+
 ### Artifact
 
 The artifact I selected is a C++ program developed last term in CS 405: Secure Coding titled *Buffer Overflow Example*. The program was originally created to demonstrate how unsafe memory handling using fixed-size character arrays can lead to buffer overflow vulnerabilities. It was developed during CS 405 as a learning exercise focused on identifying and understanding security weaknesses in low-level input handling. The original version used a fixed-size character array and std::cin.getline() to limit the input size while printing the constant account number that cannot be modified. 

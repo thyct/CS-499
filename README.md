@@ -1,6 +1,5 @@
-<body style="background-color:lightblue">
 <h1 align="center">Computer Science Capstone</h1>
-<h2 aligh="center">Thy Tran</h2>
+<h2 align="center">Thy Tran</h2>
 
 **Welcome to my Computer Science Capstone ePortfolio.**
 

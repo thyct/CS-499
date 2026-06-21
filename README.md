@@ -1,4 +1,5 @@
-<h1 align="center">Computer Science Capstone</h1>
+<a id="top"></a>
+h1 align="center">Computer Science Capstone</h1>
 
 <p align="center">
   <b>Thy Tran</b><br>
@@ -6,6 +7,16 @@
 </p>
 
 ---
+<details>
+  <summary><b> Table of Contents  (Click to Expand)</b></summary>
+
+- [Professional Self-Assessment](#professional-self-assessment)
+- [Code Review](#code-review)
+- [Enhancement One: Software Design and Engineering](#enhancement-one-software-design-and-engineering)
+- [Enhancement Two: Algorithms and Data Structure](#enhancement-two-algorithms-and-data-structure)
+- [Enhancement Three: Databases](#enhancement-three-databases)
+
+</details>
 
 # Professional Self-Assessment
 Throughout the Computer Science program, I developed a strong foundation in software development, data structures and algorithms, database systems, and secure programming practices. The CS 499 capstone provided an opportunity to integrate these skills into a cohesive ePortfolio that demonstrates both technical growth and professional readiness. Over time, my focus has shifted from simply writing functional code to designing maintainable, efficient, and secure software systems aligned with real-world development practices.
@@ -43,8 +54,8 @@ style="display:inline-block;padding:10px 15px;background:#ff0000;color:white;tex
 <img width="343" height="61" alt="Screenshot 2026-06-20 at 7 42 44 PM" src="https://github.com/user-attachments/assets/88daadd5-df00-47e5-86c8-986ff2e6bb0b" />
 <img width="495" height="88" alt="Screenshot 2026-06-20 at 7 42 20 PM" src="https://github.com/user-attachments/assets/8ff5312d-ab0c-4a24-9954-c6ae7b429e71" />
 
-[Original File](BufferOverflow.cpp)
-[Enhanced File](EnhancedBufferOverflow.cpp)
+### [Original File](BufferOverflow.cpp)
+### [Enhanced File](EnhancedBufferOverflow.cpp)
 
 ### Artifact
 
@@ -67,6 +78,9 @@ Through enhancing this artifact, I gained deeper knowledge about the importance 
 <img width="393" height="608" alt="Screenshot 2026-06-20 at 7 54 12 PM" src="https://github.com/user-attachments/assets/64efa612-b6b8-45a7-b71e-5621116432a1" />
 <img width="444" height="868" alt="Screenshot 2026-06-20 at 7 55 19 PM" src="https://github.com/user-attachments/assets/54ad216e-62f8-40cb-8314-765efc584ccc" />
 
+### [Original File](ProjectTwo.cpp)
+### [Enhanced File](EnhancedProjectTwo.cpp)
+
 ### Artifact
   The artifact I selected is a C++ program developed in CS 300: Data Structures and Algorithms titled *Course Planner*. The program was created to assist students and advisors by loading course information from a CSV file, storing course data using a hash table implemented with an unordered map, and allowing users to search for courses and view prerequisite information. The original version created in CS 300 primarily used vectors to store prerequisites and relied on basic lookup functionality within a hash table structure to retrieve course information.
   
@@ -88,6 +102,11 @@ Through enhancing this artifact, I gained a deeper understanding of how differen
 <img width="1708" height="854" alt="Screenshot 2026-06-20 at 7 05 13 PM" src="https://github.com/user-attachments/assets/b12edd15-6a2e-45cd-a319-8c23361a9648" />
 <img width="1710" height="591" alt="Screenshot 2026-06-20 at 7 05 39 PM" src="https://github.com/user-attachments/assets/668f66ec-77bb-44d6-97be-dc78599af18e" />
 
+### [Original File - CRUD](CRUD_Python_Module.py)
+### [Original File - Dashboard](ProjectTwoDashboard.ipynb)
+### [Enhanced File - CRUD](EnhancedBufferOverflow.cpp)
+### [Enhanced File - Dashboard](EnhancedCRUD_Python_Module.py)
+
 ### Artifact
 
 The artifact that I have selected is a database-driven interactive dashboard that I developed in CS 340: Client/Server Development. The *Grazioso Salvare* application was designed to assist users in analyzing animal shelter data using MongoDB. The system uses a custom CRUD Python module to manage database operations and supports dynamic filtering, data visualization, and geospatial mapping. The original version of this database artifact relied primarily on basic MongoDB queries and a simple Dash interface for displaying tabular data. 
@@ -103,3 +122,6 @@ This enhancement met the planned course outcomes identified in Module One. Outco
 ### Reflection
 
 During this enhancement, I gained a greater understanding of how database design and system architecture influence application reliability and usability. Implementing a hybrid MongoDB and CSV fallback system helped me understand how real-world applications must be designed to remain functional even when primary services are unavailable. I also learned how to utilize pandas to simulate database query operations in fallback mode, which strengthened my overall understanding of data filtering and transformation. This required careful attention to maintaining consistent behavior between MongoDB and CSV data handling. The main challenge I encountered during this enhancement was ensuring that both MongoDB and CSV data sources returned consistent results within the dashboard. Debugging filtering logic and verifying correct data output required iterative testing and validation. Another challenge was handling potential errors such as missing or malformed data, which was addressed through input validation and exception handling in the CRUD module. Overall, this project improved my understanding of full-stack application development, database integration, and defensive programming best practices. It also strengthened my ability to design systems that are both functional and resilient.
+<p align="right">
+  <a href="#top">⬆ Back to Top</a>
+</p>

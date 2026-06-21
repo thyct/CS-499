@@ -1,12 +1,10 @@
 <h1 align="center">Computer Science Capstone</h1>
 <h2 align="center">Thy Tran</h2>
 
-<table align="center">
+<table align="center" border="2" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-
-**Welcome to my Computer Science Capstone ePortfolio.**
-
+      <b>Welcome to my Computer Science Capstone ePortfolio.</b>
     </td>
   </tr>
 </table>
